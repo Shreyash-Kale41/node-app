@@ -1,0 +1,24 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "This is my first node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyash-Kale41/node-app.git"
+  },
+  "author": "Shreyash Kale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyash-Kale41/node-app/issues"
+  },
+  "homepage": "https://github.com/Shreyash-Kale41/node-app#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.13.1"
+  }
+}
